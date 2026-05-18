@@ -27,3 +27,11 @@
 
 > [!Important]
 > Each step will include written instructions and corresponding screenshots. Expand the "See screenshots" section to view the images and progress through the portfolio.
+
+<h3>1. Log into Domain Controller VM</h3>
+
+<p>So the first thing i'm going to do is to log into DC-1 VM. To do that, get the public IP address of DC-1 and open up remote desktop. The easiest way to do that is to press the start key and type in remote desktop. Once it's open, type in the the ip address and log in using the credentials of dc-1.</p>
+
+
+<details><summary>See screenshots</summary>
+<img src="
