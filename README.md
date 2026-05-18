@@ -34,4 +34,17 @@
 
 
 <details><summary>See screenshots</summary>
-<img src="
+<img src="images/AD_Config_Step1.png"
+</details>
+
+
+<details><summary>See screenshots</summary>
+<img src="images/AD_Config_Step2.png"
+</details>
+
+
+<details><summary>See screenshots</summary>
+<img src="images/AD_Config_Step3.png"
+</details>
+
+
