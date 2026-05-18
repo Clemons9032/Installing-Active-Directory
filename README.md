@@ -48,3 +48,8 @@
 </details>
 
 
+<p>Upon logging into the DC-1 VM, the windows server manager screen will appear and from here, this is where i'm going to start the installation of Active Directory.</p>
+
+<h4>2. Installation of Active Directory</h4>
+
+<p>So in order to start the AD installation, I'm going to click on add roles and features. Once I click on that button, a list of services will appear and from that list, I'm going to click on Active Directory Domain Services.</p>
