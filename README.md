@@ -58,22 +58,29 @@
 <img src="images/AD_Config_Step7.png"
 </details>
 
+<p>So in order to start the AD installation, I'm going to click on add roles and features.</p>
+
 <details><summary>See screenshots</summary>
 <img src="images/AD_Config_Step8.png"
 </details>
 
+<p>On the before you begin screen, just click to continue to the select installation type screen</p>
 
 <details><summary>See screenshots</summary>
 <img src="images/AD_Config_Step9.png"
 </details>
 
+<p>On this screen, make sure the role-based install is selected and click continue</p>
+
 <details><summary>See screenshots</summary>
 <img src="images/AD_Config_Step10.png"
 </details>
+<p>You'll get to the select destination server screen and on this screen, choose the select server from server pool option and choose your server. In my case, I only have one server to choose from.</p>
 
 <details><summary>See screenshots</summary>
 <img src="images/AD_Config_Step11.png"
 </details>
+<p>On the server role screen,I'm going to choose the active directory domain services for the server role.</p>
 
 <details><summary>See screenshots</summary>
 <img src="images/AD_Config_Step12.png"
